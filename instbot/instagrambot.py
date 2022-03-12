@@ -116,3 +116,4 @@ class Instagrambot:
 		if args.dv: self.download_video(args.dv)
 		
 		l.close_browzer()
+    
